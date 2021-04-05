@@ -258,7 +258,7 @@ STARTUP_MSG:   version = 2.7.3
 
 
 ```bash
-/usr/local/hadooṕ/bin/hadoop/sbin/star-all.sh
+/usr/local/hadoop/sbin/start-all.sh
 ```
 
 A saída deve ser a seguinte:
